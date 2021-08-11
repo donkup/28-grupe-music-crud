@@ -6,7 +6,7 @@ raimonda.intro();
 // Hi, my name is Raimonda and I am a musician!
 
 raimonda.songPrice(15);
-// Raimonda's price per song is 0.15 EUR;
+// // Raimonda's price per song is 0.15 EUR;
 
 raimonda.addSong('Bumciki');
 raimonda.addSong('Tra lia lai');
@@ -66,4 +66,4 @@ raimonda.playlist();
 // 4. Kai grazumo (3)
 
 raimonda.fortune();
-// Total lifetime wealth of Raimonda is 1.80 EUR right now!
+// // Total lifetime wealth of Raimonda is 1.80 EUR right now!
